@@ -1,4 +1,4 @@
-#addin "nuget:?package=Cake.WebDeploy&version=0.3.4"
+#addin "nuget:?package=Cake.WebDeploy&version=0.3.4&loaddependencies=true"
 #addin "nuget:?package=SharpZipLib&version=1.2.0"
 #addin "nuget:?package=Cake.Compression&version=0.2.4"
 
